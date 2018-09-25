@@ -2,13 +2,13 @@
 * @Author: bear
 * @Date:   2018-09-19 13:44:00
 * @Last Modified by:   bear
-* @Last Modified time: 2018-09-22 15:59:12
+* @Last Modified time: 2018-09-25 16:23:47
  */
 
 package main
 
-import "beargo/beargo/core"
+import "beargo/beargo"
 
 func main() {
-	core.Run()
+	beargo.Run()
 }
